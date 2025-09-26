@@ -203,7 +203,6 @@
  
  CommitHistory copyMaster = master.duplicate();
  
- cout << "(To test gitShow: call gitShow(hash) with a hash printed earlier from commit messages.)\n";
  
  return 0;
  }
